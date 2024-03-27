@@ -1,0 +1,46 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+
+.rowColor {
+    background-color: #C1D6F5;   
+}
+
+.data {
+    font-size: 13px;
+    padding: 5px;
+    word-wrap: break-word;
+    text-align: center
+}
+
+.data1 {
+    font-size: 13px;
+    padding: 5px;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.star {
+    font-size: 15px;
+    color: red
+}
+
+.goldStar {
+    font-size: 30px;
+    color: gold
+}
+
+
+  
